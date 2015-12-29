@@ -1,12 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Torrmal's Blog by Jorge Torres
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
-description: "Jorge Torres"
+description: "Public thoughts about stuff I am working on!"
 baseurl: ""
+url: "http://torrmal.github.io"
 twitter_username: thejorgetorres
 github_username:  torrmal
-facebook_username:  IronSummitMedia
+facebook_username:  imjorgetorres
 
 # Build settings
 markdown: kramdown
