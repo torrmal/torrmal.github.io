@@ -8,10 +8,12 @@ url: "http://torrmal.github.io"
 twitter_username: iamjorgetorres
 github_username:  torrmal
 facebook_username:  imjorgetorres
-
+# Gems
+gems: [jekyll-paginate]
 # Build settings
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
