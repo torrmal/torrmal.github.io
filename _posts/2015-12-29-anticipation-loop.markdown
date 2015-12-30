@@ -11,7 +11,7 @@ author:     "Jorge Torres"
 I would like to entertain the following line of thinking: 
 <i>What if our thoughts can be represented as the result of a chain of predictions? The deeper in the chain the more complicated the thoughts can be.</i>
 
-<h2 class="section-heading">An experiment</h2>
+<h2 class="section-heading">An experiment </h2>
 
 Design an algorithm that from a given video, takes a frame and tries to predict/anticipate what the next frame will be like. Also, design that algorithm in a way such that it can continiously and unsupervised; learn from the accuracy of its predictions. Lets call this algorithm the <i>Anticipation Block</i>.
 
